@@ -2,3 +2,7 @@ body{
   color: red;
   background-color: black;
 }
+img{
+  width: auto;
+  height: 60%;
+}
